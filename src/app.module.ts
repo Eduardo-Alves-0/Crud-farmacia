@@ -20,7 +20,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
       password: '1234',
 
       // Nome do banco de dados que será utilizado
-      database: 'db_blogpessoal',
+      database: 'db_farmacia',
 
       // Lista de entidades que serão mapeadas para tabelas no banco de dados
       entities: [],
